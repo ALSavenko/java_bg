@@ -1,3 +1,5 @@
+package Chapter2;
+
 /*
    Compute the number of cubic inches
    in 1 cubic mile.

@@ -1,7 +1,9 @@
+package Chapter1;
+
 /*
    This demonstrates a variable.
 
-   Call this file Example2.java.
+   Call this file Chapter1.Example2.java.
 */
 class Example2 {
     public static void main(String args[]) {

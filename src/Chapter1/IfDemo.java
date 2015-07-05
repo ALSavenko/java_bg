@@ -1,7 +1,9 @@
+package Chapter1;
+
 /*
   Demonstrate the if.
 
-  Call this file IfDemo.java.
+  Call this file Chapter1.IfDemo.java.
 */
 class IfDemo {
     public static void main(String args[]) {

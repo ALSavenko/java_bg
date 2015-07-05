@@ -1,7 +1,9 @@
+package Chapter1;
+
 /*
    This is a simple Java program.
 
-   Call this file Example.java.
+   Call this file Chapter1.Example.java.
 */
 class Example {
     // A Java program begins with a call to main().
